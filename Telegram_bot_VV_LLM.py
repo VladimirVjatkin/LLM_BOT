@@ -4,7 +4,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 import requests
 
 # Вставьте токен вашего бота
-BOT_TOKEN = "8163688640:AAE_5AoH5So1LgytnhNvSow4QvV5xztsZ74"
+BOT_TOKEN = "xztsZ74"
 
 # URL локального сервера модели
 LOCAL_MODEL_URL = "http://127.0.0.1:1234/v1/chat/completions"
